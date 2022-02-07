@@ -10,6 +10,7 @@ mylist = [1, "one", 1.000]
 print(mylist)
 print("\n")
 
+
 #bullet point number two
 yourlist1 = [1, 2]
 yourlist2 = [1, 1, yourlist1]

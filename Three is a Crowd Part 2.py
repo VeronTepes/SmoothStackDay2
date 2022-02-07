@@ -1,11 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Feb  7 08:46:00 2022
+Created on Mon Feb  7 10:00:30 2022
 
 @author: owner
 """
-
-#Three is a Crowd part 1
 
 #make list of names >4
 names = ["Jason", "Monde", "Riley", "Scott"]
@@ -14,7 +12,9 @@ names = ["Jason", "Monde", "Riley", "Scott"]
 def isCrowded(people):
     if  people > 3:
         print("The room is crowded")
-
+    else:
+        print("The room is not very crowded")
+    
 isCrowded(len(names))
 
 names.pop(0)
@@ -22,13 +22,3 @@ names.pop(0)
 print(names)
 
 isCrowded(len(names))
-
-
-#Three is a crowd part 2
-
-#see other program labled as such.
-
-
-#six is a Mob
-
-#see other program labled as such.
