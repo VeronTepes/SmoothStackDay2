@@ -19,6 +19,6 @@ isCrowded(len(names))
 
 names.pop(0)
 names.pop(0)
-print(names)
+#print(names)
 
 isCrowded(len(names))
