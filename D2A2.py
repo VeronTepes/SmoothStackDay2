@@ -60,7 +60,7 @@ print("\n")
 
 #bullet point number 7
 print("With a single set function can you turn the word ‘Mississippi’ to distinct character word." + 
-      " No you can't set does not work with strings. That is, if you save it as a string.\n")
+      " yes, you can convert it into a set.\n")
 
 #bullet point number 8
 Ist.append("X")
